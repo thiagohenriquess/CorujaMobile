@@ -1,0 +1,40 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.com.faeterj.corujamobile.mensagens.saida.ConteudoMensagemSaida">
+    <item
+        android:id="@+id/mni_acao1"
+        android:orderInCategory="100"
+        android:title="@string/lbl_notas_faltas"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/mni_acao2"
+        android:orderInCategory="100"
+        android:title="@string/grade"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/mni_acao3"
+        android:orderInCategory="100"
+        android:title="@string/lbl_mensagens"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/mni_acao4"
+        android:orderInCategory="100"
+        android:title="@string/lblHistorico"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/mni_acao5"
+        android:orderInCategory="100"
+        android:title="@string/lblProfessores"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/mni_acao6"
+        android:orderInCategory="100"
+        android:title="@string/lblLinks"
+        app:showAsAction="never" />
+</menu>

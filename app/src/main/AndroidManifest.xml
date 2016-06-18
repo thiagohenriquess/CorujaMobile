@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.com.faeterj.corujamobile">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".InicioActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MenuActivity"
+            android:label="Menu"></activity>
+        <activity
+            android:name=".login.LoginActivity"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".links.ActLink"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".historico.ActHistorico"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".notas_faltas.ActNotaFalta"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".grade.GradeExtra"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".professores.ActProfessor"
+            android:label="@string/app_name"></activity>
+        <activity android:name=".mensagens.mensagens"></activity>
+
+        <activity
+            android:name=".mensagens.entrada.Controller.MensagemActivity"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".mensagens.saida.MessageOutActivity"
+            android:label="@string/app_name"></activity>
+        <activity android:name=".mensagens.saida.ConteudoMensagemSaida"></activity>
+        <activity android:name=".mensagens.entrada.Controller.MensagemPerfilActivity"></activity>
+        <activity android:name=".professores.ActCadProfessor"></activity>
+    </application>
+
+</manifest>

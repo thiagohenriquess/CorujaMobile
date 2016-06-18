@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorFundo1Mensagem">#9ee4ed</color>
+    <color name="colorFundo2Mensagem">#3F51B5</color>
+    <color name="fundoTextoMensagem">#FFFFFF</color>
+</resources>
