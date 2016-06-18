@@ -51,7 +51,7 @@ Desenvolvedor: Felipe Bahiense
 
 Desenvolvedor: Bruno
 
-<img src="08 - Historico.gif">
+<img src="08 - Professores.gif">
 
 ### Links Úteis
 
@@ -75,12 +75,3 @@ Felipe Bahiense: felipebahiensesantos@gmail.com
 Francisco Calazans: calazanss@gmail.com 
 Thiago Henrique: thiagohenriq@gmail.com
 William:
-
-
-
-
-
-
-
-
-
