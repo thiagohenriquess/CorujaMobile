@@ -68,9 +68,9 @@ Desenvolvedor: Andre Batista
 
 ##Análise de Requisitos
 
-Diagrama de Classes - Andre Batista, Bruno, William
-Documentos de Requisitos - Thiago Henrique e Danilo Silva
-Prototipo - Francisco Calazans e Felipe Bahiense
+Diagrama de Classes - Andre Batista, Bruno, William <br>
+Documentos de Requisitos - Thiago Henrique e Danilo Silva <br> 
+Prototipo - Francisco Calazans e Felipe Bahiense <br>
 
 
 ## Contatos
