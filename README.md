@@ -68,10 +68,10 @@ Desenvolvedor: Andre Batista
 
 ## Contatos
 
-André Batista:
-Bruno:
-Danilo Silva: danilodss83@gmail.com
-Felipe Bahiense: felipebahiensesantos@gmail.com 
-Francisco Calazans: calazanss@gmail.com 
-Thiago Henrique: thiagohenriq@gmail.com
-William:
+André Batista:    <br>
+Bruno:            <br>
+Danilo Silva: danilodss83@gmail.com <br>
+Felipe Bahiense: felipebahiensesantos@gmail.com  <br>
+Francisco Calazans: calazanss@gmail.com <br> 
+Thiago Henrique: thiagohenriq@gmail.com <br>
+William: <br>
