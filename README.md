@@ -66,6 +66,13 @@ Desenvolvedor: Andre Batista
 <img src="gifs/10 - Autenticação.gif">
 
 
+##Análise de Requisitos
+
+Diagrama de Classes - Andre Batista, Bruno, William
+Documentos de Requisitos - Thiago Henrique e Danilo Silva
+Prototipo - Francisco Calazans e Felipe Bahiense
+
+
 ## Contatos
 
 André Batista:    <br>
