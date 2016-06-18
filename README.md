@@ -15,7 +15,72 @@ Trabalhamos com o metodologia ágil Scrum e cada um aluno ficou responsável por
 
 Desenvolvedor: Francisco Calazans
 
-<img src="02 - 02 - Menu e interação das outras telas.gif">
+<img src="02 - Menu e interação das outras telas.gif">
+
+### Notas e Faltas
+
+Desenvolvedor: Danilo Silva
+
+<img src="03 - Notas e faltas.gif">
+
+### Grade
+
+Desenvolvedor: william
+
+<img src="04 - Grade.gif">
+
+### Mensagens Recebidas
+
+Desenvolvedor: Thiago Henrique
+
+<img src="05 - Mensagens Recebidas.gif">
+
+### Mensagens Enviadas
+
+Desenvolvedor: William
+
+<img src="06 - Mensagens Enviadas.gif">
+
+### Histórico
+
+Desenvolvedor: Felipe Bahiense
+
+<img src="07 - Historico.gif">
+
+### Professores
+
+Desenvolvedor: Bruno
+
+<img src="08 - Historico.gif">
+
+### Links Úteis
+
+Desenvolvedor: Felipe Bahiense
+
+<img src="09 - Links.gif">
+
+### Autenticação e webservice
+
+Desenvolvedor: Andre Batista
+
+<img src="10 - Autenticação.gif">
+
+
+## Contatos
+
+André Batista:
+Bruno:
+Danilo Silva: danilodss83@gmail.com
+Felipe Bahiense: felipebahiensesantos@gmail.com 
+Francisco Calazans: calazanss@gmail.com 
+Thiago Henrique: thiagohenriq@gmail.com
+William:
+
+
+
+
+
+
 
 
 
